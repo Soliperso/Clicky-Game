@@ -2,11 +2,11 @@
   background: #fff;
   border-radius: 4px;
   height: 240px;
-  margin: 2rem;
   margin-top: 10px;
   position: relative;
   width: 30%;
   box-shadow: 0 3px 6px #fff, 0 3px 6px #ddd;
   overflow: hidden;
+  margin-bottom: 10px;
 }
 
