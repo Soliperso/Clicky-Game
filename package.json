@@ -2,10 +2,12 @@
   "name": "clicky-app-new",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://soliperso.github.io/clicky-game/",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-icons": "^3.7.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {
