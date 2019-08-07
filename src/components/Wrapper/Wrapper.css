@@ -1,0 +1,45 @@
+.wrapper {
+  padding-top: 10px;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  overflow: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px; 
+
+}
+
+div.wrapper {
+  margin-top: 10px;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, .7)), url(bg.jpeg) no-repeat;
+  background-size: cover;
+}
+
+header.App-header {
+  background-color: #62797C;
+  color: #ccc;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px #000;
+}
+
+
+footer {
+  background-color: #62797C;
+  padding: 20px;
+  color: #ccc;
+  text-align: center;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  margin-top: 50px;
+  width: 100%;
+}
